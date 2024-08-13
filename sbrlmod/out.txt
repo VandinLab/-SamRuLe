@@ -1,0 +1,287 @@
+Initialize time: Elapsed time  0.0129	 0.0000 per rule
+1981 rules 700 samples
+
+
+The best rule list is (#reject=2009 #add=3375 #delete=3337 #swap=3288):
+max_log_posterior = -214.682714
+max_log_posterior = -214.682714
+16 rules 700 samples
+RULE 1366: ( {c3=x,c5=x,c7=x} ), support=65, card=3:65 captured; 
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:53 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:28 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:56 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 168: ( {c1=o,c2=o,c5=x} ), support=47, card=3:24 captured; 
+RULE 495: ( {c1=x,c4=o,c5=b} ), support=19, card=3:13 captured; 
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:58 captured; 
+RULE 1837: ( {c5=x} ), support=339, card=1:181 captured; 
+RULE 1035: ( {c2=x,c5=x} ), support=117, card=2:0 captured; 
+RULE 1298: ( {c3=o} ), support=252, card=1:56 captured; 
+RULE 301: ( {c1=o,c5=o} ), support=76, card=2:41 captured; 
+RULE 904: ( {c2=o,c8=o} ), support=91, card=2:23 captured; 
+RULE 1548: ( {c4=o,c6=o} ), support=81, card=2:18 captured; 
+RULE 0: ( default ), support=700, card=0:33 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1303 #add=3384 #delete=3238 #swap=3378):
+max_log_posterior = -136.120820
+max_log_posterior = -136.120820
+10 rules 700 samples
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:60 captured; 
+RULE 410: ( {c1=x,c2=x,c3=x} ), support=53, card=3:52 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:58 captured; 
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:52 captured; 
+RULE 1770: ( {c5=o} ), support=245, card=1:138 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:26 captured; 
+RULE 162: ( {c1=o,c2=o,c3=o} ), support=26, card=3:25 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:22 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:24 captured; 
+RULE 0: ( default ), support=700, card=0:243 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=866 #add=3440 #delete=3316 #swap=3244):
+max_log_posterior = -190.599745
+max_log_posterior = -190.599745
+13 rules 700 samples
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 845: ( {c2=o,c5=o,c8=o} ), support=29, card=3:29 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:28 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 1225: ( {c3=o,c5=o,c7=o} ), support=36, card=3:36 captured; 
+RULE 1512: ( {c4=o,c5=o,c6=o} ), support=24, card=3:24 captured; 
+RULE 761: ( {c2=o,c3=b,c5=x} ), support=27, card=3:26 captured; 
+RULE 620: ( {c1=x,c9=o} ), support=118, card=2:76 captured; 
+RULE 1768: ( {c5=o,c9=o} ), support=79, card=2:38 captured; 
+RULE 213: ( {c1=o,c3=o,c5=b} ), support=14, card=3:13 captured; 
+RULE 163: ( {c1=o,c2=o,c3=x} ), support=39, card=3:33 captured; 
+RULE 168: ( {c1=o,c2=o,c5=x} ), support=47, card=3:16 captured; 
+RULE 0: ( default ), support=700, card=0:330 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1439 #add=3361 #delete=3364 #swap=3275):
+max_log_posterior = -181.610588
+max_log_posterior = -181.610588
+12 rules 700 samples
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:28 captured; 
+RULE 1512: ( {c4=o,c5=o,c6=o} ), support=24, card=3:24 captured; 
+RULE 299: ( {c1=o,c5=o,c9=o} ), support=38, card=3:38 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 1225: ( {c3=o,c5=o,c7=o} ), support=36, card=3:36 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 1094: ( {c2=x} ), support=272, card=1:167 captured; 
+RULE 758: ( {c2=b} ), support=183, card=1:125 captured; 
+RULE 1731: ( {c5=o,c6=x,c8=o} ), support=41, card=3:18 captured; 
+RULE 542: ( {c1=x,c5=o,c8=o} ), support=42, card=3:6 captured; 
+RULE 226: ( {c1=o,c3=o} ), support=69, card=2:26 captured; 
+RULE 0: ( default ), support=700, card=0:181 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=984 #add=3367 #delete=3351 #swap=3282):
+max_log_posterior = -264.208308
+max_log_posterior = -264.208308
+20 rules 700 samples
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:58 captured; 
+RULE 162: ( {c1=o,c2=o,c3=o} ), support=26, card=3:26 captured; 
+RULE 1111: ( {c3=b,c4=x,c6=o} ), support=19, card=3:19 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 96: ( {c1=b,c5=o,c9=b} ), support=8, card=3:8 captured; 
+RULE 1761: ( {c5=o,c8=o,c9=x} ), support=31, card=3:22 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 1373: ( {c3=x,c5=x} ), support=121, card=2:95 captured; 
+RULE 1964: ( {c7=x,c9=x} ), support=106, card=2:64 captured; 
+RULE 1142: ( {c3=b,c5=x} ), support=78, card=2:56 captured; 
+RULE 1884: ( {c6=o,c8=x,c9=o} ), support=39, card=3:24 captured; 
+RULE 301: ( {c1=o,c5=o} ), support=76, card=2:42 captured; 
+RULE 962: ( {c2=x,c3=x} ), support=113, card=2:43 captured; 
+RULE 1635: ( {c4=x,c6=o,c9=o} ), support=41, card=3:9 captured; 
+RULE 1467: ( {c4=b,c6=o,c8=b} ), support=20, card=3:5 captured; 
+RULE 503: ( {c1=x,c4=o,c7=x} ), support=37, card=3:8 captured; 
+RULE 1748: ( {c5=o,c7=o} ), support=74, card=2:31 captured; 
+RULE 1741: ( {c5=o,c7=b} ), support=52, card=2:11 captured; 
+RULE 1306: ( {c3=x,c4=b,c7=x} ), support=37, card=3:2 captured; 
+RULE 0: ( default ), support=700, card=0:126 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1039 #add=3282 #delete=3368 #swap=3350):
+max_log_posterior = -157.690712
+max_log_posterior = -157.690712
+11 rules 700 samples
+RULE 1225: ( {c3=o,c5=o,c7=o} ), support=36, card=3:36 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 299: ( {c1=o,c5=o,c9=o} ), support=38, card=3:38 captured; 
+RULE 845: ( {c2=o,c5=o,c8=o} ), support=29, card=3:29 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 162: ( {c1=o,c2=o,c3=o} ), support=26, card=3:26 captured; 
+RULE 1541: ( {c4=o,c6=b} ), support=62, card=2:54 captured; 
+RULE 1558: ( {c4=o,c6=x} ), support=97, card=2:64 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:28 captured; 
+RULE 1522: ( {c4=o,c5=o} ), support=71, card=2:24 captured; 
+RULE 0: ( default ), support=700, card=0:350 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=781 #add=3308 #delete=3315 #swap=3377):
+max_log_posterior = -230.074628
+max_log_posterior = -230.074628
+17 rules 700 samples
+RULE 1512: ( {c4=o,c5=o,c6=o} ), support=24, card=3:24 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:28 captured; 
+RULE 299: ( {c1=o,c5=o,c9=o} ), support=38, card=3:38 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:58 captured; 
+RULE 1366: ( {c3=x,c5=x,c7=x} ), support=65, card=3:64 captured; 
+RULE 1609: ( {c4=x,c5=x,c6=x} ), support=64, card=3:62 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:52 captured; 
+RULE 177: ( {c1=o,c2=o} ), support=79, card=2:29 captured; 
+RULE 1827: ( {c5=x,c8=o,c9=o} ), support=47, card=3:19 captured; 
+RULE 1225: ( {c3=o,c5=o,c7=o} ), support=36, card=3:36 captured; 
+RULE 1329: ( {c3=x,c4=x,c5=x} ), support=27, card=3:3 captured; 
+RULE 1661: ( {c4=x,c7=x,c8=x} ), support=30, card=3:9 captured; 
+RULE 1749: ( {c5=o,c7=x,c8=b} ), support=28, card=3:14 captured; 
+RULE 1694: ( {c5=b,c7=o,c8=o} ), support=13, card=3:11 captured; 
+RULE 850: ( {c2=o,c5=o} ), support=71, card=2:28 captured; 
+RULE 0: ( default ), support=700, card=0:200 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1364 #add=3317 #delete=3376 #swap=3307):
+max_log_posterior = -165.655081
+max_log_posterior = -165.655081
+13 rules 700 samples
+RULE 558: ( {c1=x,c5=x,c9=x} ), support=66, card=3:66 captured; 
+RULE 1031: ( {c2=x,c5=x,c8=x} ), support=58, card=3:57 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:26 captured; 
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:60 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:57 captured; 
+RULE 410: ( {c1=x,c2=x,c3=x} ), support=53, card=3:51 captured; 
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:51 captured; 
+RULE 1183: ( {c3=o,c4=b,c6=x} ), support=25, card=3:18 captured; 
+RULE 1558: ( {c4=o,c6=x} ), support=97, card=2:39 captured; 
+RULE 1800: ( {c5=x,c6=x} ), support=131, card=2:64 captured; 
+RULE 1414: ( {c3=x,c7=o} ), support=104, card=2:16 captured; 
+RULE 1373: ( {c3=x,c5=x} ), support=121, card=2:50 captured; 
+RULE 0: ( default ), support=700, card=0:145 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1353 #add=3303 #delete=3368 #swap=3329):
+max_log_posterior = -178.419153
+max_log_posterior = -178.419153
+13 rules 700 samples
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:54 captured; 
+RULE 558: ( {c1=x,c5=x,c9=x} ), support=66, card=3:65 captured; 
+RULE 1609: ( {c4=x,c5=x,c6=x} ), support=64, card=3:63 captured; 
+RULE 1031: ( {c2=x,c5=x,c8=x} ), support=58, card=3:56 captured; 
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:59 captured; 
+RULE 1298: ( {c3=o} ), support=252, card=1:106 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:23 captured; 
+RULE 845: ( {c2=o,c5=o,c8=o} ), support=29, card=3:26 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:24 captured; 
+RULE 1726: ( {c5=o,c6=o} ), support=64, card=2:32 captured; 
+RULE 1360: ( {c3=x,c5=o,c9=x} ), support=51, card=3:30 captured; 
+RULE 301: ( {c1=o,c5=o} ), support=76, card=2:31 captured; 
+RULE 0: ( default ), support=700, card=0:131 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=487 #add=3305 #delete=3389 #swap=3306):
+max_log_posterior = -233.404039
+max_log_posterior = -233.404039
+17 rules 700 samples
+RULE 410: ( {c1=x,c2=x,c3=x} ), support=53, card=3:53 captured; 
+RULE 1609: ( {c4=x,c5=x,c6=x} ), support=64, card=3:64 captured; 
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:59 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:57 captured; 
+RULE 1225: ( {c3=o,c5=o,c7=o} ), support=36, card=3:36 captured; 
+RULE 858: ( {c2=o,c5=x,c8=o} ), support=50, card=3:26 captured; 
+RULE 1768: ( {c5=o,c9=o} ), support=79, card=2:50 captured; 
+RULE 1512: ( {c4=o,c5=o,c6=o} ), support=24, card=3:21 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:26 captured; 
+RULE 78: ( {c1=b,c4=o} ), support=54, card=2:32 captured; 
+RULE 902: ( {c2=o,c8=o,c9=b} ), support=27, card=3:10 captured; 
+RULE 903: ( {c2=o,c8=o,c9=x} ), support=48, card=3:17 captured; 
+RULE 621: ( {c1=x,c9=x} ), support=118, card=2:60 captured; 
+RULE 1941: ( {c7=o,c8=o} ), support=70, card=2:24 captured; 
+RULE 781: ( {c2=o,c3=o} ), support=78, card=2:26 captured; 
+RULE 1567: ( {c4=o,c7=o} ), support=79, card=2:27 captured; 
+RULE 0: ( default ), support=700, card=0:112 captured; 
+Total Captured: 700
+
+The best rule list is (#reject=1214 #add=3330 #delete=3356 #swap=3314):
+max_log_posterior = -215.085252
+max_log_posterior = -215.085252
+15 rules 700 samples
+RULE 162: ( {c1=o,c2=o,c3=o} ), support=26, card=3:26 captured; 
+RULE 299: ( {c1=o,c5=o,c9=o} ), support=38, card=3:38 captured; 
+RULE 845: ( {c2=o,c5=o,c8=o} ), support=29, card=3:29 captured; 
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:60 captured; 
+RULE 1850: ( {c6=b,c7=x} ), support=89, card=2:50 captured; 
+RULE 1512: ( {c4=o,c5=o,c6=o} ), support=24, card=3:24 captured; 
+RULE 1201: ( {c3=o,c4=x,c5=o} ), support=39, card=3:20 captured; 
+RULE 929: ( {c2=x,c3=o,c5=o} ), support=37, card=3:15 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:25 captured; 
+RULE 1834: ( {c5=x,c9=b} ), support=77, card=2:56 captured; 
+RULE 1980: ( {c9=x} ), support=287, card=1:181 captured; 
+RULE 1970: ( {c8=o,c9=b} ), support=60, card=2:10 captured; 
+RULE 1941: ( {c7=o,c8=o} ), support=70, card=2:26 captured; 
+RULE 1258: ( {c3=o,c6=o} ), support=74, card=2:26 captured; 
+RULE 0: ( default ), support=700, card=0:114 captured; 
+Total Captured: 700
+n0=0, n1=60, captured=60, training accuracy = 1.00000000
+theta[0] = 0.98387097
+n0=0, n1=52, captured=52, training accuracy = 1.00000000
+theta[1] = 0.98148148
+n0=0, n1=58, captured=58, training accuracy = 1.00000000
+theta[2] = 0.98333333
+n0=0, n1=52, captured=52, training accuracy = 1.00000000
+theta[3] = 0.98148148
+n0=138, n1=0, captured=138, training accuracy = 1.00000000
+theta[4] = 0.00714286
+n0=26, n1=0, captured=26, training accuracy = 1.00000000
+theta[5] = 0.03571429
+n0=25, n1=0, captured=25, training accuracy = 1.00000000
+theta[6] = 0.03703704
+n0=22, n1=0, captured=22, training accuracy = 1.00000000
+theta[7] = 0.04166667
+n0=24, n1=0, captured=24, training accuracy = 1.00000000
+theta[8] = 0.03846154
+n0=4, n1=239, captured=243, training accuracy = 0.98353909
+theta[9] = 0.97959184
+Time to train: Elapsed time  0.6040	 0.6040 
+
+The best rulelist for 11 MCMC chains is: 10 rules 700 samples
+RULE 519: ( {c1=x,c4=x,c7=x} ), support=60, card=3:60 captured; 
+RULE 410: ( {c1=x,c2=x,c3=x} ), support=53, card=3:52 captured; 
+RULE 1400: ( {c3=x,c6=x,c9=x} ), support=58, card=3:58 captured; 
+RULE 1960: ( {c7=x,c8=x,c9=x} ), support=54, card=3:52 captured; 
+RULE 1770: ( {c5=o} ), support=245, card=1:138 captured; 
+RULE 1256: ( {c3=o,c6=o,c9=o} ), support=28, card=3:26 captured; 
+RULE 162: ( {c1=o,c2=o,c3=o} ), support=26, card=3:25 captured; 
+RULE 259: ( {c1=o,c4=o,c7=o} ), support=25, card=3:22 captured; 
+RULE 1939: ( {c7=o,c8=o,c9=o} ), support=26, card=3:24 captured; 
+RULE 0: ( default ), support=700, card=0:243 captured; 
+Total Captured: 700
+519, 0.98387097
+410, 0.98148148
+1400, 0.98333333
+1960, 0.98148148
+1770, 0.00714286
+1256, 0.03571429
+162, 0.03703704
+259, 0.04166667
+1939, 0.03846154
+0, 0.97959184
+Lambda = 9.000000
+Eta = 3.000000
+Alpha[0] = 1
+Alpha[1] = 1
+Number of chains = 11
+Iterations = 10000
+Rule 519 captures 60 of 700 samples
+Rule 410 captures 52 of 700 samples
+Rule 1400 captures 58 of 700 samples
+Rule 1960 captures 52 of 700 samples
+Rule 1770 captures 138 of 700 samples
+Rule 1256 captures 26 of 700 samples
+Rule 162 captures 25 of 700 samples
+Rule 259 captures 22 of 700 samples
+Rule 1939 captures 24 of 700 samples
+Rule 0 captures 243 of 700 samples
+test accuracy = 0.994286 
